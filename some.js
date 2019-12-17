@@ -1,7 +1,8 @@
 export function getSomething(){
   var a={
     bbb:1,
-    cc:2,
+    ccc:2,
+    hhhh:8,
     ddd:3,
   }
   return a;
